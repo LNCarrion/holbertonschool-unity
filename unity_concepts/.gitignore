@@ -39,8 +39,6 @@ sysinfo.txt
 *.aab
 *.unitypackage
 
-# Ignore asset meta files
-*.meta
 
 # Ignore Play mode test results
 *.testresult
